@@ -7,9 +7,6 @@ import javax.persistence.Id;
 
 @Entity
 public class Employee implements Serializable {
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 	
 	private String empName;
@@ -19,6 +16,9 @@ public class Employee implements Serializable {
 	private String password;
 	private String email;
 	private String mobile;
+	private int role;
+	private String assignedRole;
+	private String hasAssignedRole;
 
 	@Id
 	private String empId;
@@ -93,7 +93,7 @@ public class Employee implements Serializable {
 	}
 
 	public Employee(String empName, String designation, String department, String immediateSupervisor, String password,
-			String email, String mobile, String empId) {
+			String email, String mobile, String empId, int role, String assignedRole, String hasAssignedRole) {
 		super();
 		this.empName = empName;
 		this.designation = designation;
@@ -103,6 +103,9 @@ public class Employee implements Serializable {
 		this.email = email;
 		this.mobile = mobile;
 		this.empId = empId;
+		this.role = role;
+		this.assignedRole = assignedRole;
+		this.hasAssignedRole = hasAssignedRole;
 	}
 
 	@Override
@@ -110,6 +113,30 @@ public class Employee implements Serializable {
 		return "Employee [empId = " + empId + "empName=" + empName + ", designation=" + designation + ", department=" + department
 				+ ", immediateSupervisor=" + immediateSupervisor + ", password=" + password + ", email=" + email
 				+ ", mobile=" + mobile + "]";
+	}
+
+	public int getRole() {
+		return role;
+	}
+
+	public void setRole(int role) {
+		this.role = role;
+	}
+
+	public String getAssignedRole() {
+		return assignedRole;
+	}
+
+	public void setAssignedRole(String assignedRole) {
+		this.assignedRole = assignedRole;
+	}
+
+	public String getHasAssignedRole() {
+		return hasAssignedRole;
+	}
+
+	public void setHasAssignedRole(String hasAssignedRole) {
+		this.hasAssignedRole = hasAssignedRole;
 	}
 
 }

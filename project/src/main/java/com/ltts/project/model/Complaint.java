@@ -15,6 +15,7 @@ public class Complaint implements Serializable {
 	private String complaintSubject;
 	private String empId;
 	private String complaintRemark;
+	private int resolverId;
 	
 	@Id
 	@GeneratedValue
@@ -63,8 +64,12 @@ public class Complaint implements Serializable {
 	public void setComplaintDescription(String complaintDescription) {
 		this.complaintDescription = complaintDescription;
 	}
+	public Complaint()
+	{
+		super();
+	}
 	public Complaint(int complaintId, String complaintType, LocalDate requestDate, 
-		 String complaintDescription, int complaintIncharge, String complaintSubject, String requestStatus, String empId, String complaintRemark) {
+		 String complaintDescription, int complaintIncharge, String complaintSubject, String requestStatus, String empId, String complaintRemark, int resolverid) {
 		super();
 		this.complaintId = complaintId;
 		this.complaintType = complaintType;
@@ -75,6 +80,7 @@ public class Complaint implements Serializable {
 		this.requestStatus = requestStatus;
 		this.empId = empId;
 		this.complaintRemark = complaintRemark;
+		this.resolverId = resolverid;
 		
 	}
 	
@@ -97,10 +103,7 @@ public class Complaint implements Serializable {
 				+ ", complaintDescription=" + complaintDescription + ", complaintSubject=" + complaintSubject + "";
 	}
 	
-	public Complaint()
-	{
-		super();
-	}
+	
 	public String getEmpId() {
 		return empId;
 	}
@@ -112,5 +115,11 @@ public class Complaint implements Serializable {
 	}
 	public void setComplaintRemark(String complaintRemark) {
 		this.complaintRemark = complaintRemark;
+	}
+	public int getResolverId() {
+		return resolverId;
+	}
+	public void setResolverId(int resolverId) {
+		this.resolverId = resolverId;
 	}
 }

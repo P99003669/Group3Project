@@ -2,10 +2,11 @@
     pageEncoding="ISO-8859-1"%>
 <%
         Cookie firstName = new Cookie("first_name", request.getParameter("empid"));
-
+		
         response.addCookie( firstName );
-     
+       
         %>
+
 <html>
 
 <head>
@@ -159,7 +160,7 @@
 </head>
 
 <body>
-<h1>Welcome ${value} </h1>
+<h1>Welcome ${value} ${empId } </h1>
   
 
 <div>
@@ -167,12 +168,12 @@
 </div>
   <div class="main">
     <p class="sign" align="center">Complaint Management System</p>
-    <form class="form1" action="" method="get" target="_blank">
-    <a class="button" href = "putcomplaint"><span>New Complaint</span></a>
-   </form>
-
+ 
  <form class="form3" action="" method="get" target="_blank">
-  <a class="button" href = "viewcomplaints"><span>View Complaints </span></a>
+  <a class="button" href = "putcomplaint"><span>New Complaint</span></a><br><br>
+  <a class="button" href = "pendingcomplaints"><span>Pending Complaints </span></a><br><br>
+  <a class="button" href = "resolvedcomplaints"><span>Resolved Complaints </span></a><br><br>
+  
   </form>
      </div>
      

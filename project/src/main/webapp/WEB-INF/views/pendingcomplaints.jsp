@@ -38,8 +38,7 @@ if (cookies != null) {
 }
 </style>
 </head>
-<body
-	style="background-image: url('https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fcloudcherry.com%2Fblog%2Fdesigning-customer-complaint-management-system%2F&amp;psig=AOvVaw3msgy8LW4Wl3Au94QdZuxA&amp;ust=1616471087521000&amp;source=images&amp;cd=vfe&amp;ved=0CAIQjRxqFwoTCLDbppn-wu8CFQAAAAAdAAAAABAJ;')">
+<body>
 
 	<%-- <h1>View All Complaints</h1>
 ${list} --%>
@@ -50,8 +49,7 @@ ${list} --%>
 	<!-- SELECT * FROM complaint where complaint_incharge = 1; -->
 	<sql:query var="listUsers" dataSource="${myDS}">
        
-         SELECT * FROM complaint where emp_id = <%=s%>; 
- 
+        SELECT * FROM complaint where  request_status = 'pending';
     </sql:query>
 
 	<div align="center">
@@ -68,8 +66,7 @@ ${list} --%>
 				<th>Date Of Request</th>
 				<th>Status</th>
 				<th>Remark</th>
-				<th>Reolver Id</th>
-
+	<th>Action</th>
 
 			</tr>
 			<c:forEach var="complaint" items="${listUsers.rows}">
@@ -82,8 +79,12 @@ ${list} --%>
 					<td><c:out value="${complaint.date_of_request}" /></td>
 					<td><c:out value="${complaint.request_status}" /></td>
 					<td><c:out value="${complaint.complaint_remark}" /></td>
-					<td><c:out value="${complaint.resolver_id}" /></td>
-				
+					        <td>
+
+                     <a href='/edit/${complaint.complaint_id}'>Update</a>     
+                               
+                    
+                </td>
 				</tr>
 			</c:forEach>
 			<!-- </form> -->
