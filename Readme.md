@@ -81,13 +81,13 @@ Name                           |   PS No.  |    Contribution     | Issuess Faced
 
 |SL.NO.|Test Case|Expected Result|Test Result|
 | - | - | - | - |
-|1|A user clicks on Sign Up Button|Registration from opens|Successful|
+|1|Employee clicks on Sign Up Button|Registration from opens|Successful|
 |2|Enters registration details in correct format|Registration is successful and the data is stored in the database.|Successful|
-|3|After Successful registration, user clicks on login button |Login form opens|Successful|
-|4|Enters registration details in correct format|User is successfully logged in and Home Page opens.|Successful|
-|5|A User clicks on New Complaint Button|User will be redirected to Add Complaint Page|Successful|
-|6|A User clicks on View Complaint's Button|User will be redirected to a page which shows previous Complaint's|Successful|
-|7|A User clicks on Logout Button|User will be redirected to a Home Page|Successful|
+|3|After Successful registration, Employee clicks on login button |Login form opens|Successful|
+|4|Enters registration details in correct format|Employee is successfully logged in and Home Page opens.|Successful|
+|5|A Employee clicks on New Complaint Button|Employee will be redirected to Add Complaint Page|Successful|
+|6|A Employee clicks on View Complaint's Button|Employee will be redirected to a page which shows previous Complaint's|Successful|
+|7|A Employee clicks on Logout Button|Employee will be redirected to a Home Page|Successful|
 
 
 #### Negative Test Cases
