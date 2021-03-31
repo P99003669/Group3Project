@@ -11,11 +11,11 @@ E-Commerce application developed for performing Admin and Customer user role ope
 
 Name                           |   PS No.  |    Features    | Issuess Raised |      Issues Resolved         
 -------------------------------|-----------|----------------|----------------|------------------------------
-`1) Mohnish khera`             | 99003692  |     | on bugging     | bugging issue is resolved    
-`2) Saujanya Tailang`          | 99003688  |  | on operation   | operation issue is resolved  
-`3) Ishan Rawat`         | 99003691  |       | error          | errors are resolved          
-`4) Sarvesh Anand`             | 99003687  |      | error          | errors are resolved          
-`5) Vishal J Roshan`             | 99003689  |       | on bugging     | bugging issue is resolved  
+`1) V Sneharani Patro`         | 99003652  || on bugging    | bugging issue is resolved    
+`2) Bpankaj Kumar`             | 99003658  || on operation  | operation issue is resolved  
+`3) Kuchipudi Bhagyasree`      | 99003664  || error         | errors are resolved          
+`4) Yash Chhipa`               | 99003666  || error         | errors are resolved          
+`5) Saisandeepreddy Gandluri`  | 99003669  || on bugging    | bugging issue is resolved  
 
 #### Features available based on the user role
 * Coin Registration
@@ -70,6 +70,8 @@ Name                           |   PS No.  |    Features    | Issuess Raised |  
 
 ---------
 # Test Plan For Coin Buy/Sell System
+![Screenshot (5)](https://user-images.githubusercontent.com/78849248/113090383-441b5380-9207-11eb-868d-149257ec7d66.png)
+
 
 #### Registration and Login Test Cases:
 
