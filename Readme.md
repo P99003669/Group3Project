@@ -17,6 +17,7 @@ Name                           |   PS No.  |    Contribution     | Issuess Faced
 
 #### Features available based on the user role
 * Employee Registration
+  * Employee login
   * Adding Employee in DB.
   * New Complaint
   * View Self Complaint's
