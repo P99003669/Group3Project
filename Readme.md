@@ -40,62 +40,33 @@ Name                           |   PS No.  |    Contribution     | Issuess Faced
   * Microservices using Eureka Server
 
 #### Application screenshots
-*Home page
- ![Screenshot (1)](https://user-images.githubusercontent.com/78849248/113101470-610d5200-921a-11eb-9228-997a15d089bc.png)
- 
- * Login
- ![Screenshot (5)](https://user-images.githubusercontent.com/78849248/113101712-af225580-921a-11eb-8bb1-37b5586ba014.png)
-
+* Login
+  * ![Image of screenshot](https://user-images.githubusercontent.com/78859930/112817447-12d44380-90a0-11eb-82e3-353360b794ec.png)
  * Register 
-   ![Screenshot (4)](https://user-images.githubusercontent.com/78849248/113101579-839f6b00-921a-11eb-95d5-910818edd1b3.png)
+     ![Screenshot (12)](https://user-images.githubusercontent.com/78859930/112817559-34cdc600-90a0-11eb-9746-3c7b6b2e7d78.png))
 
+*Home page
+    ![Image of screenshot](https://user-images.githubusercontent.com/78859930/112817656-4ca54a00-90a0-11eb-8fbc-2b19ccc8fbc3.png)
 
-
-#### Admin
+#### Sell
     
   * Home 
-    ![Screenshot (6)](https://user-images.githubusercontent.com/78849248/113101799-c95c3380-921a-11eb-946c-632a0239abad.png)
+     * ![Screenshot (13)](https://user-images.githubusercontent.com/78859930/112817872-8bd39b00-90a0-11eb-9215-efdee0c9936b.png)
+    * After clicking on sell:- Coin registration
+      ![Screenshot (14)](https://user-images.githubusercontent.com/78859930/112818077-c4737480-90a0-11eb-9777-17808468f1cf.png)  
+    * After Coin Registration
+       ![Screenshot (16)](https://user-images.githubusercontent.com/78859930/112818390-1a481c80-90a1-11eb-9d89-555ca832e3d2.png)
 
-    * After clicking on view users
-    ![Screenshot (7)](https://user-images.githubusercontent.com/78849248/113101895-e2fd7b00-921a-11eb-9daa-04254b8e6b18.png)
-    
-    * After clicking on view compliants
-    ![Screenshot (11)](https://user-images.githubusercontent.com/78849248/113102009-06c0c100-921b-11eb-8af8-52bfbfdfb289.png)
-    
-    * After clicking on view resolvers
-   ![Screenshot (10)](https://user-images.githubusercontent.com/78849248/113102078-248e2600-921b-11eb-9b24-06361c1ee096.png)
-
-    * After clicking on assign roles
-   ![Screenshot (8)](https://user-images.githubusercontent.com/78849248/113102147-412a5e00-921b-11eb-99c9-a7c3f67d7a87.png)
-
-#### Resolver
+#### Buy
    
-  * Home
-      ![Screenshot (13)](https://user-images.githubusercontent.com/78849248/113102245-65863a80-921b-11eb-8647-811631406682.png)
-      
-   * After clicking on New Complaint
-       ![Screenshot (14)](https://user-images.githubusercontent.com/78849248/113102321-7fc01880-921b-11eb-9b17-5f4e9f8bdb11.png)
-
-   * After clicking on Pending Complaints
-      ![Screenshot (19)](https://user-images.githubusercontent.com/78849248/113102483-bac24c00-921b-11eb-9ee3-9f4d1a5d8e57.png)
-
-   * After clicking on Resolved Complaints 
-      ![Screenshot (22)](https://user-images.githubusercontent.com/78849248/113102573-d75e8400-921b-11eb-98d2-966213742b16.png)
-
-#### Employee
-   
-  * Home
-      ![Screenshot (16)](https://user-images.githubusercontent.com/78849248/113103057-708d9a80-921c-11eb-9cfb-822ff88a845e.png)
-
-      
-  * After clicking on New Complaint
-       ![Screenshot (14)](https://user-images.githubusercontent.com/78849248/113102321-7fc01880-921b-11eb-9b17-5f4e9f8bdb11.png)
-
-  * After clicking on Pending Complaints
-      ![Screenshot (19)](https://user-images.githubusercontent.com/78849248/113102483-bac24c00-921b-11eb-9ee3-9f4d1a5d8e57.png)
-
-  * After clicking on Resolved Complaints 
-      ![Screenshot (22)](https://user-images.githubusercontent.com/78849248/113102573-d75e8400-921b-11eb-98d2-966213742b16.png)
+   * Home
+        ![Screenshot (13)](https://user-images.githubusercontent.com/78859930/112817872-8bd39b00-90a0-11eb-9215-efdee0c9936b.png)
+    * Buy Page 
+        ![Screenshot (17)](https://user-images.githubusercontent.com/78859930/112818721-73b04b80-90a1-11eb-96b5-89437ed760b2.png)
+    * Adding buyers Details
+       ![Screenshot (19)](https://user-images.githubusercontent.com/78859930/112818985-bbcf6e00-90a1-11eb-8322-643fc171cd49.png)
+    * Sucesss Page 
+       ![Screenshot (21)](https://user-images.githubusercontent.com/78859930/112946105-c433b180-9152-11eb-8aa6-411c31a5444d.png)
 
 
 ---------
@@ -137,8 +108,25 @@ Name                           |   PS No.  |    Contribution     | Issuess Faced
 |3|Employee can Logout after successful registration|Successfully logged out and back to homepage|<p>Successful</p><p></p>|
 
 
+### System Level and Subsystem Level UMLs - Structural and Behavioral:
 
+ #### System Level UML
+ 
+ ![System level uml](https://user-images.githubusercontent.com/78852647/113107824-fb24c880-9221-11eb-89d2-e04f26be8f63.PNG)
 
+ #### Subsystem Level UML
+ 
+ #### Structural Diagram:
+ 
+  ##### Class Diagram
+ 
+ ![ClassDiagram](https://user-images.githubusercontent.com/78852647/113108915-1e9c4300-9223-11eb-834b-a2e87e22a667.PNG)
+
+ #### Behavioral Diagram:
+ 
+  ##### Usecase Diagram
+  
+  ![Usecase Diagram](https://user-images.githubusercontent.com/78852647/113109170-5dca9400-9223-11eb-9118-5ad747446bfb.PNG)
 
 ### Checkout flow Test Cases:
 
