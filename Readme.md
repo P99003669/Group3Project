@@ -132,7 +132,7 @@ Name                           |   PS No.  |    Contribution     | Issuess Faced
 
 This project was generated with [Springboot in SpringSuit tool].
 
-Import the project in spring tool suit and in test file run the  /CoinBuySell/src/test/java/net/codejava/SpringBootRegistrationLoginApplicationTests.java run in Junit
+Import the project in spring tool suit and in test file run the  /Project/src/test/java/net/codejava/ProjectApplicationTests.java run in Junit
 
 Run . Navigate to `http://localhost:8080/`. The app will automatically reload if you change any of the source files.
 
