@@ -7,13 +7,13 @@ Complaint management system is a software program that allows companies to addre
 
 # Contributors List
 
-Name                           |   PS No.  |    Contribution     | Issuess Raised |      Issues Resolved         
--------------------------------|-----------|---------------------|----------------|------------------------------
-`1) V Sneharani Patro`         | 99003652  | Complaint Updation  | bugging issue is resolved    
-`2) B Pankaj Kumar`            | 99003658  | User Interface      | operation issue is resolved  
-`3) Kuchipudi Bhagyasree`      | 99003664  | MicroServices       | errors are resolved          
-`4) Yash Chhipa`               | 99003666  | RESTful Services    | errors are resolved          
-`5) Saisandeepreddy Gandluri`  | 99003669  | Session Management  | bugging issue is resolved  
+Name                           |   PS No.  |    Contribution     | Issuess Faced                                              |      Issues Resolved         
+-------------------------------|-----------|---------------------|------------------------------------------------------------|------------------------------
+`1) V Sneharani Patro`         | 99003652  | Complaint Module    | Faced issue in cookie management                           |Resolved
+`2) B Pankaj Kumar`            | 99003658  | Employee Module     | Faced issue while fetching data from database for dropdown |Resolved
+`3) Kuchipudi Bhagyasree`      | 99003664  | Module Integration  | Faced issue while integrating microservices                |Resolved
+`4) Yash Chhipa`               | 99003666  | Admin Module        | Faced issueRole management                                 |Resolved
+`5) Saisandeepreddy Gandluri`  | 99003669  | Resolver Module     | Faced issue in giving feedback individually                |Resolved
 
 #### Features available based on the user role
 * Coin Registration
