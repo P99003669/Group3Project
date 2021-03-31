@@ -36,9 +36,7 @@ Name                           |   PS No.  |    Contribution     | Issuess Faced
   * Hibernate with JPA 
   * MySQL
   * Session management
-  * Microservices using Edureka Server
-
-#### Web services project can be found in (https://github.com/99003688/Team-6_Coin_Buy-Sell)
+  * Microservices using Eureka Server
 
 #### Application screenshots
 * Login
