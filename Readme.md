@@ -16,16 +16,20 @@ Name                           |   PS No.  |    Contribution     | Issuess Faced
 `5) Saisandeepreddy Gandluri`  | 99003669  | Resolver Module     | Faced issue in giving feedback individually                |Resolved
 
 #### Features available based on the user role
-* Coin Registration
-  * Adding products
-  * Updating products
-  * Deleting products
+* Employee Registration
+  * Adding Employee in DB.
+  * New Complaint
+  * View Self Complaint's
 
-* Customer
-  * Registering into System
-  * Login into Website
-  * Updating the Product
-  * Placing the order
+* Admin
+  * Admin login
+  * View All Complaint's
+  * Assign Roles
+
+* Resolver
+  * Resolver login
+  * View Assigned Complaint's
+  * Update the Status of Complaint's
 
 * Technologies: 
   * Spring Boot
