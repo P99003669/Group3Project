@@ -68,18 +68,33 @@ Name                           |   PS No.  |    Contribution     | Issuess Faced
     * After clicking on assign roles
    ![Screenshot (8)](https://user-images.githubusercontent.com/78849248/113102147-412a5e00-921b-11eb-99c9-a7c3f67d7a87.png)
 
-#### Employee
+#### Resolver
    
-   * Home
-        ![Screenshot (13)](https://user-images.githubusercontent.com/78849248/113102245-65863a80-921b-11eb-8647-811631406682.png)
-
-    * After clicking on New Complaint
+  * Home
+      ![Screenshot (13)](https://user-images.githubusercontent.com/78849248/113102245-65863a80-921b-11eb-8647-811631406682.png)
+      
+   * After clicking on New Complaint
        ![Screenshot (14)](https://user-images.githubusercontent.com/78849248/113102321-7fc01880-921b-11eb-9b17-5f4e9f8bdb11.png)
 
-    * After clicking on Pending Complaints
+   * After clicking on Pending Complaints
       ![Screenshot (19)](https://user-images.githubusercontent.com/78849248/113102483-bac24c00-921b-11eb-9ee3-9f4d1a5d8e57.png)
 
-    * After clicking on Resolved Complaints 
+   * After clicking on Resolved Complaints 
+      ![Screenshot (22)](https://user-images.githubusercontent.com/78849248/113102573-d75e8400-921b-11eb-98d2-966213742b16.png)
+
+#### Employee
+   
+  * Home
+      ![Screenshot (16)](https://user-images.githubusercontent.com/78849248/113103057-708d9a80-921c-11eb-9cfb-822ff88a845e.png)
+
+      
+  * After clicking on New Complaint
+       ![Screenshot (14)](https://user-images.githubusercontent.com/78849248/113102321-7fc01880-921b-11eb-9b17-5f4e9f8bdb11.png)
+
+  * After clicking on Pending Complaints
+      ![Screenshot (19)](https://user-images.githubusercontent.com/78849248/113102483-bac24c00-921b-11eb-9ee3-9f4d1a5d8e57.png)
+
+  * After clicking on Resolved Complaints 
       ![Screenshot (22)](https://user-images.githubusercontent.com/78849248/113102573-d75e8400-921b-11eb-98d2-966213742b16.png)
 
 
