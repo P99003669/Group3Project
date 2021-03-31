@@ -117,17 +117,13 @@ Name                           |   PS No.  |    Contribution     | Issuess Faced
 
 |SL.NO.|Test Case|Expected Result|Test Result|
 | - | - | - | - |
-|1|User clicks on “Buy” option|All the available coins stored in the database are displayed to the user|Successful|
-|2|User clicks on Buy option in front of any specific coin data|Redirected to the checkout page where email id of the user is already fetched|Successful|
-|3|User enters the details in correct format and submits the form|Redirected to the Success Page and buyer data is stored in the database|Successful|
+|1|Employee clicks on “New Complaint” option|The Add Complaint Should be Appeared|Successful|
+|2|Employee clicks on "View Complaint's" option|Redirected to the Complaint's Page where Complaint's of the Employee is already fetched|Successful|
+|3|Employee enters the details in correct format and submits the form|Redirected to the Succesful Page and details stored in Data Base|Successful|
 
 
 
-#### Negative Test Cases
 
-|SL.NO.|Test Case|Expected Result|Test Result|
-| - | - | - | - |
-|1|User enters invalid credentials in the buyer registration page|Shows exception and asks user to enter the details again|Successful|
 
 
 ---------
