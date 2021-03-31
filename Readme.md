@@ -1,21 +1,19 @@
-### Coin Buy and Sell (SikkAass) Application (SpringBoot Web and Microservices Services)
-[![Code Quality Scores](https://www.code-inspector.com/project/18990/score/svg)](https://frontend.code-inspector.com/public/project/18990/GPAConverter-Group6/dashboard)
-[![Code Grade](https://www.code-inspector.com/project/18990/status/svg)](https://frontend.code-inspector.com/public/project/18990/GPAConverter-Group6/dashboard)
-![Inspect](https://github.com/mohnishkheraa/GPAConverter-Group6/workflows/Inspect/badge.svg)
+### COMPLAINT MANAGEMENT SYSTEM (using SpringBoot and MicroServices)
+
 ---------
-E-Commerce application developed for performing Admin and Customer user role operations with respective user interfaces. Application is implemented in two parts:
-1. RESTfull web services: API's build using spring boot are used for handling all the back end operations which includes session management. 
-2. Front End: User interfaces designed and developed using basic front end utilising web services for handling appropriate user actions  
+Complaint management system is a software program that allows companies to address customers' enquiries, deliver consistent support and manage complaints in a timely manner. In general, these applications are offered as part of customer relationship management software packages. Application contains mainly two parts: 
+1. RESTful web services: API's build using spring boot are used for handling all the back end operations which includes session management. 
+2. Front End: User interfaces designed and developed using basic front end utilising web services.
 
 # Contributors List
 
-Name                           |   PS No.  |    Features    | Issuess Raised |      Issues Resolved         
--------------------------------|-----------|----------------|----------------|------------------------------
-`1) V Sneharani Patro`         | 99003652  || on bugging    | bugging issue is resolved    
-`2) Bpankaj Kumar`             | 99003658  || on operation  | operation issue is resolved  
-`3) Kuchipudi Bhagyasree`      | 99003664  || error         | errors are resolved          
-`4) Yash Chhipa`               | 99003666  || error         | errors are resolved          
-`5) Saisandeepreddy Gandluri`  | 99003669  || on bugging    | bugging issue is resolved  
+Name                           |   PS No.  |    Contribution     | Issuess Raised |      Issues Resolved         
+-------------------------------|-----------|---------------------|----------------|------------------------------
+`1) V Sneharani Patro`         | 99003652  | Complaint Updation  | bugging issue is resolved    
+`2) B Pankaj Kumar`            | 99003658  | User Interface      | operation issue is resolved  
+`3) Kuchipudi Bhagyasree`      | 99003664  | MicroServices       | errors are resolved          
+`4) Yash Chhipa`               | 99003666  | RESTful Services    | errors are resolved          
+`5) Saisandeepreddy Gandluri`  | 99003669  | Session Management  | bugging issue is resolved  
 
 #### Features available based on the user role
 * Coin Registration
