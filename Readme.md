@@ -94,18 +94,18 @@ Name                           |   PS No.  |    Contribution     | Issuess Faced
 
 |SL.NO.|Test Case|Expected Result|Test Result|
 | - | - | - | - |
-|1|A user tries to register with invalid credentials i.e. quantity of characters allowed, password requirements, Email format |Application should not move to the next page and exception occurs|Successful|
-|2|User tries to sign up with invalid email id|Could not sign up because email verification is necessary in order to get access|Successful|
-|3|Enters invalid credentials in the login page |Shows exception and asks user to sign up first.|Successful|
+|1|Employee tries to register with invalid credentials i.e. quantity of characters allowed, password requirements, Email format |Application should not move to the next page and error page occurs|Successful|
+|2|Employee tries to sign up with invalid  ID|Could not sign up because ID is needed to access Employee Detail's|Successful|
+|3|Enters invalid credentials in the login page |Redirects Employee to Registration Page.|Successful|
 
-### Coin Registration form:
+### Employee Registration form:
 
 
 |SL.NO.|Test Case|Expected Result|Test Result|
 | - | - | - | - |
-|1|User clicks on “Sell” option|Coin Registration form opens|Successful|
-|2|User enters details of the coin he/she wants to sell and submits the form|Values are stored in the database with user’s email id as one of the attribute|<p>Successful</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>|
-|3|User can Logout after successful registration|Successfully logged out and back to homepage|<p>Successful</p><p></p>|
+|1|Employee clicks on “Sign Up” option|Employee Registration form opens|Successful|
+|2|Employee enters all his details in the form and submits the form|Values are stored in the database with Employee's  id as one of the attribute|<p>Successful</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>|
+|3|Employee can Logout after successful registration|Successfully logged out and back to homepage|<p>Successful</p><p></p>|
 
 
 
