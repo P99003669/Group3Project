@@ -1,0 +1,21 @@
+package com.ltts.AddDepartment.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.servlet.ModelAndView;
+
+@RestController
+public class DController {
+	@Autowired
+	@RequestMapping("/viewcomplaints")
+	public ModelAndView viewAllComplaints(Model model) {
+		ModelAndView mv = new ModelAndView("complaints");
+		List<Complaint> li = cd.getAllComplaints();
+
+		model.addAttribute("list", li);
+
+		return mv;
+	}
+	
+}
