@@ -54,27 +54,15 @@ Name                           |   PS No.  |    Contribution     | Issuess Faced
 #### Sell
     
   * Home 
-     * ![Screenshot (13)](https://user-images.githubusercontent.com/78859930/112817872-8bd39b00-90a0-11eb-9215-efdee0c9936b.png)
-    * After clicking on sell:- Coin registration
-      ![Screenshot (14)](https://user-images.githubusercontent.com/78859930/112818077-c4737480-90a0-11eb-9777-17808468f1cf.png)  
-    * After Coin Registration
-       ![Screenshot (16)](https://user-images.githubusercontent.com/78859930/112818390-1a481c80-90a1-11eb-9d89-555ca832e3d2.png)
-
+     
 #### Buy
    
-   * Home
-        ![Screenshot (13)](https://user-images.githubusercontent.com/78859930/112817872-8bd39b00-90a0-11eb-9215-efdee0c9936b.png)
-    * Buy Page 
-        ![Screenshot (17)](https://user-images.githubusercontent.com/78859930/112818721-73b04b80-90a1-11eb-96b5-89437ed760b2.png)
-    * Adding buyers Details
-       ![Screenshot (19)](https://user-images.githubusercontent.com/78859930/112818985-bbcf6e00-90a1-11eb-8322-643fc171cd49.png)
-    * Sucesss Page 
-       ![Screenshot (21)](https://user-images.githubusercontent.com/78859930/112946105-c433b180-9152-11eb-8aa6-411c31a5444d.png)
+   
 
 
 ---------
 # Test Plan For Coin Buy/Sell System
-![Screenshot (5)](https://user-images.githubusercontent.com/78849248/113090383-441b5380-9207-11eb-868d-149257ec7d66.png)
+
 
 
 #### Registration and Login Test Cases:
