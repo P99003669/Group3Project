@@ -51,21 +51,38 @@ Name                           |   PS No.  |    Contribution     | Issuess Faced
 
 
 
-#### Sell
-    
-  * Home 
-     
-#### Buy
-   
-   
+#### Admin
+  * Home
+  ![Screenshot (6)](https://user-images.githubusercontent.com/78849248/113265626-fe878500-92f1-11eb-845a-b758374d40fb.png)
+  
+  * After clicking on view users
+  ![Screenshot (7)](https://user-images.githubusercontent.com/78849248/113265845-3989b880-92f2-11eb-863d-fd23e7263024.png)
+  
+   * After clicking on view complaints
+ ![Screenshot (11)](https://user-images.githubusercontent.com/78849248/113265923-4c9c8880-92f2-11eb-86c2-e2c4f48647fc.png)
+ 
+ * After clicking on view reslovers
+![Screenshot (10)](https://user-images.githubusercontent.com/78849248/113266060-6d64de00-92f2-11eb-8974-ec61185518e5.png)
 
+ * After clicking on assign role
+![Screenshot (8)](https://user-images.githubusercontent.com/78849248/113266100-79e93680-92f2-11eb-89d2-c35cfe6777f3.png)    
 
----------
-# Test Plan For Coin Buy/Sell System
+#### Resolvers
+* Home
+  ![Screenshot (13)](https://user-images.githubusercontent.com/78849248/113266208-a1d89a00-92f2-11eb-8eb3-1fed51e28831.png)
 
+* After clicking on new complaint
+  ![Screenshot (14)](https://user-images.githubusercontent.com/78849248/113266304-c2085900-92f2-11eb-8d13-540258b2ed5b.png)
+  
+  * After clicking on pending complaints
+  ![Screenshot (19)](https://user-images.githubusercontent.com/78849248/113266392-db110a00-92f2-11eb-9fa7-549c731c893f.png)
 
+* After clicking on resolved complaints
+![Screenshot (22)](https://user-images.githubusercontent.com/78849248/113266459-eebc7080-92f2-11eb-990d-61602023abe8.png)
 
-#### Registration and Login Test Cases:
+# Employee
+* Home
+  ![Screenshot (16)](https://user-images.githubusercontent.com/78849248/113266545-05fb5e00-92f3-11eb-9fdc-078da01348eb.png)
 
  #### Positive Test Cases
 
