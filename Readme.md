@@ -40,13 +40,16 @@ Name                           |   PS No.  |    Contribution     | Issuess Faced
   * Microservices using Eureka Server
 
 #### Application screenshots
-* Login
-  * ![Image of screenshot](https://user-images.githubusercontent.com/78859930/112817447-12d44380-90a0-11eb-82e3-353360b794ec.png)
- * Register 
-     ![Screenshot (12)](https://user-images.githubusercontent.com/78859930/112817559-34cdc600-90a0-11eb-9746-3c7b6b2e7d78.png))
-
 *Home page
-    ![Image of screenshot](https://user-images.githubusercontent.com/78859930/112817656-4ca54a00-90a0-11eb-8fbc-2b19ccc8fbc3.png)
+   ![Screenshot (1)](https://user-images.githubusercontent.com/78849248/113241201-ccfbc300-92cb-11eb-8504-3cb0cf1e2c0c.png)
+
+ * Login
+  ![Screenshot (5)](https://user-images.githubusercontent.com/78849248/113241212-d2590d80-92cb-11eb-8585-641efe07cab3.png)
+
+ * Register 
+    ![Screenshot (4)](https://user-images.githubusercontent.com/78849248/113241221-d7b65800-92cb-11eb-9f1a-17895f269d1e.png)
+
+
 
 #### Sell
     
